@@ -2,6 +2,15 @@
 
   <PropertyGroup>
     <TargetFramework>netstandard2.0</TargetFramework>
+    <Authors>royshea</Authors>
+    <Description>Clases and custom JSON converters for using the RESTful SmartThings API from Samsung to compose SmartApp Automations using C#.</Description>
+    <Copyright>MIT</Copyright>
+    <PackageTags>smartthings, smartapi, automation, sensor</PackageTags>
+    <NeutralLanguage> </NeutralLanguage>
+    <PackageProjectUrl>https://github.com/royshea/SmartSharp</PackageProjectUrl>
+    <PackageLicenseUrl>https://github.com/royshea/SmartSharp/blob/master/LICENSE</PackageLicenseUrl>
+    <RepositoryUrl>https://github.com/royshea/SmartSharp.git</RepositoryUrl>
+    <RepositoryType>git</RepositoryType>
   </PropertyGroup>
 
   <ItemGroup>
